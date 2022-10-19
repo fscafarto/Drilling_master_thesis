@@ -1,6 +1,9 @@
 # Drilling_master_thesis
 Public repository including the code (and some tips) of the program for my master thesis. 
 
+## Master thesis 
+The PDF file of my master thesis is available [here](https://www.dropbox.com/s/5fg19roiexk8b4o/document.pdf?dl=0).
+
 ## RaiSim installation
 In order to install RaiSim, follow the official documentation available [here](https://raisim.com/sections/Installation.html).
 It is strongly recommended to follow the tutorial available [here](https://www.youtube.com/watch?v=sfCR75Q58vI&t=167s&pp=ugMICgJpdBABGAE%3D).
