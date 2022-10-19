@@ -37,10 +37,12 @@ gedit CMakeLists.txt
 
 Modify the following if statement, adding the folder **test** as subdirectory: 
 
-<code>if(RAISIM_EXAMPLE)
+```
+if(RAISIM_EXAMPLE)
     #add_subdirectory(examples)
     add_subdirectory(test)
-endif()</code>
+endif()
+```
 
 In order to compile the program, we will use the *make* command:
 
